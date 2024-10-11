@@ -4,7 +4,7 @@
 ### 1. WEBOTS界面截图
 ![alt text](image-6.png)
 ### 2. 场景树结构
-![alt text](image-7.png)
+![alt text](image.png)
 1. **WorldInfo**: 
    - Contains metadata and general settings for the simulation environment.
 
@@ -25,7 +25,7 @@
 
 7. **RobocupSoccerBall "robocup soccer ball"**: 
    - The soccer ball used in the simulation, likely with properties to simulate real-world physics and interactions with the robot.
-   - 
+  
 ## PROBLEM 2
 > 建立一个自己的webots世界，如包含地面、桌子、椅子的房间，可利用 webots 已有资源，实操实体建模、组合体建模等操作
 ### 1. 房间
